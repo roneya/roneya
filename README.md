@@ -20,7 +20,7 @@ Enthusiastic coder in <br>Java, <br>ReactJs,<br>Python. <br>Passionate about inn
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roneya&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=roneya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=roneya&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=roneya&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
@@ -28,9 +28,5 @@ Enthusiastic coder in <br>Java, <br>ReactJs,<br>Python. <br>Passionate about inn
 ---
 [![](https://visitcount.itsvg.in/api?id=roneya&icon=0&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-[![](https://visitcount.itsvg.in/api?id=roneya&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
