@@ -11,8 +11,26 @@ Enthusiastic coder in <br>Java, <br>ReactJs,<br>Python. <br>Passionate about inn
 ![](https://github-readme-stats.vercel.app/api?username=roneya&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=roneya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roneya&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 💫 About Me:
+🔭 Enthusiastic coder in:<br>      Java,<br>      VueJs,<br>      Python.<br>👯 I’m looking to collaborate in Java and Python backend projects<br>🤝 I’m looking for help with<br>🌱 I’m currently learning React JS<br>💬 I'm an introvert computer engineer who loves to play chess and sketching<br>⚡ Fun fact
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=roneya&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=roneya&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=roneya&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=roneya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=roneya&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=roneya&icon=0&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=roneya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
