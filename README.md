@@ -15,8 +15,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=roneya&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=roneya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roneya&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-# 💫 About Me:
-🔭 Enthusiastic coder in:<br>      Java,<br>      VueJs,<br>      Python.<br>👯 I’m looking to collaborate in Java and Python backend projects<br>🌱 I’m currently learning Vue JS<br>💬 I'm an introvert computer engineer who loves to play chess and sketching<br>⚡ Fun fact: Bring me chole bhature and iced mocha anytime.
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=roneya&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false)<br/>
