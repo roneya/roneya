@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/prof.rv/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/iamrohanvidhate) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/iamrohanvidhate) 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=roneya&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
