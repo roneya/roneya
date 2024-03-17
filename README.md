@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Enthusiastic coder in:<br>      Java,<br>      VueJs,<br>      Python.<br>👯 I’m looking to collaborate in Java and Python backend projects<br>🌱 I’m currently learning Vue JS<br>💬 I'm an introvert computer engineer who loves to play chess and sketching<br>⚡ Fun fact: Chole bhature and cold coffee is my love
+🔭 Enthusiastic coder in:<br>      Java,<br>      VueJs,<br>      Rust.<br>👯 I’m looking to collaborate in Java and Rust backend projects<br>🌱 I’m currently learning Vue JS and Rust<br>💬 I'm an introvert computer engineer who loves to play chess and sketching<br>⚡ Fun fact: Chole bhature and cold coffee is my love
 
 
 ## 🌐 Socials:
