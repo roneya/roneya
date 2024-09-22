@@ -4,6 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/iamrohanvidhate) 
+[![Leetcode](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/iamrohanvidhate) 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=roneya&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
